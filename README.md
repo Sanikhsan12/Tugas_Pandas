@@ -7,4 +7,5 @@
 
 ## Link Video Penjelasan
 
+berikut adalah link video penjelasan
 https://drive.google.com/file/d/10WQ82A0uuesQKVKvreH-t9Vc8_zH2N4K/view?usp=sharing
