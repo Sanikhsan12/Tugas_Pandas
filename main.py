@@ -1,6 +1,5 @@
 # library
 import pandas as pd
-import numpy as np
 
 # ? SOAL 1
 # * membuat dataframe 
